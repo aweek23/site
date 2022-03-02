@@ -22,9 +22,6 @@ const config = {
     PROJECTS: [
         { id: "αωєєк.bot", image: "assets/img/aweek.png", link: "", name: "αωєєк.bot - Développeur principal" },
         { id: "genius", image: "assets/img/genius.png", link: "https://discord.gg/97YCtxmDF4", name: "Genius, astuces et cours privés - Owner" },
-        { id: "anarchy", image: "assets/img/anarchy.png", link: "https://discord.gg/45dwFAGJpT", name: "Anarchy-Mc - Fondateur" },
-        { id: "faucetCrypto", image: "assets/img/png.png", link: "https://faucet-crypto.tk", name: "FaucetCrypto - Développeur/Owner" },
-        { id: "hostyourwebsite", image: "assets/img/png.png", link: "", name: "HostYourWebsite - Administration" },
         { id: "pi-heberg", image: "assets/img/pi-heberg.png", link: "https://pi-heberg.fr", name: "Pi-Heberg - Community-Manager" },
     ],
 
