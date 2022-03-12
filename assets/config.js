@@ -21,7 +21,7 @@ const config = {
 
     PROJECTS: [
         { id: "αωєєк.bot", image: "assets/img/aweek.png", link: "", name: "αωєєк.bot - Développeur principal" },
-        { id: "Legion", image: "assets/img/genius.png", link: "https://discord.gg/legion-com", name: "Legion, cours et formations privés - Owner" },
+        { id: "Legion", image: "assets/img/legion.png", link: "https://discord.gg/legion-com", name: "Legion, cours et formations privés - Owner" },
     ],
 
     SOCIALS: [
