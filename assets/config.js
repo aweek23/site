@@ -1,22 +1,11 @@
 const config = {
     USERNAME: "αωєєк#0001",
-    PICTURE: "assets/img/pp.gif",
+    PICTURE: "assets/img/9E4D5067-4D8D-49F4-8C7A-C8F0FF860689.png",
 
     DESCRIPTION: "Salut ! Je suis Ayzirix, mieux connu sous le pseudonyme de Aweek. J'ai 16ans et je suis belge, je dis alors nonante et non quatre-vingt dix. Je suis développeur débutant, hébergeur et technicien, infographiste, community manager et fort présent dans le monde des cryptomonnaies. N'hésitez pas à passer sur ma page Github afin d'avoir plus d'information sur ma personnes, mes compétences et/ou mes projets.",
 
     BADGES: [
         { id: "HypeSquad Brillance", image: "assets/img/brillance.png" },
-        { id: "Png", image: "assets/img/png.png" },
-        { id: "Dev", image: "assets/img/dev.png" },
-        { id: "Hosting", image: "assets/img/heberg.png" },
-        { id: "Crypto", image: "assets/img/btc.png" },
-        { id: "Infographisme", image: "assets/img/infographisme.png" },
-        { id: "Community-Management", image: "assets/img/cm.png" },
-        { id: "Png", image: "assets/img/png.png" },
-        { id: "Html", image: "assets/img/html.png" },
-        { id: "Css", image: "assets/img/css.png" },
-        { id: "Js", image: "assets/img/js.png" },
-        { id: "Php", image: "assets/img/php.png" },
     ],
 
     PROJECTS: [
@@ -27,6 +16,6 @@ const config = {
     ],
 
     SOCIALS: [
-        { class_name: "fab fa-github", link: "https://github.com/Ayzirix" },
+        { class_name: "fab fa-github", link: "https://github.com/aweek23" },
     ],
 }
