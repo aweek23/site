@@ -23,5 +23,6 @@ const config = {
 
     SOCIALS: [
         { class_name: "fab fa-github", link: "https://github.com/aweek23" },
+        { class_name: "fab fa-discord", link: "https://discord.gg/5YXKBedPxm" },
     ],
 }
