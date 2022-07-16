@@ -9,13 +9,13 @@ const config = {
     ],
 
     PROJECTS: [
-        { id: "Astra Giveaways", image: "assets/img/astragiveaways.png", link: "", name: "" },
-        { id: "Social Boost", image: "", link: "", name: "" },
-        { id: "ShopDeals", image: "", link: "", name: "" },
-        { id: "Legion", image: "", link: "", name: "" },
-        { id: "Casino Palace", image: "", link: "", name: "" },
-        { id: "Aweek.bot", image: "", link: "", name: "" },
-        { id: "S3MC", image: "", link: "", name: "" },
+        { id: "Astra Giveaways", image: "assets/img/astragiveaways.png", link: "", name: "AstraGiveaways, giveaways en totu genres" },
+        { id: "Social Boost", image: "assets/img/socialboost.png", link: "", name: "SocialBoost, boostez vos réseaux" },
+        { id: "ShopDeals", image: "assets/img/shopdeals.png", link: "", name: "ShopDeals, vente de produits moins cher" },
+        { id: "Legion", image: "assets/img/legion.png", link: "", name: "Legion, formations, cours et astuces privés" },
+        { id: "Casino Palace", image: "assets/img/casino.png", link: "", name: "Casino Palace, le premier Casino de Discord" },
+        { id: "Aweek.bot", image: "assets/img/aweek.png", link: "", name: "Aweek.bot, le bot le plus complet de tout Discord" },
+        { id: "S3MC", image: "assets/img/s3mc.png", link: "", name: "S3MC, petite survie chill" },
     ],
 
     SOCIALS: [
