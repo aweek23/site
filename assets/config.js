@@ -5,7 +5,10 @@ const config = {
     DESCRIPTION: "Salut ! Je suis Ayzirix, mieux connu sous le pseudonyme de Aweek. J'ai 16ans et je suis belge, je dis alors nonante et non quatre-vingt dix. Je suis développeur débutant, hébergeur et technicien, infographiste, community manager et fort présent dans le monde des cryptomonnaies. N'hésitez pas à passer sur ma page Github afin d'avoir plus d'information sur ma personnes, mes compétences et/ou mes projets.",
 
     BADGES: [
+        { id: "Développeur", image: "assets/img/dev.png" },
         { id: "HypeSquad Brillance", image: "assets/img/brillance.png" },
+        { id: "Discord Nitro", image: "assets/img/nitro.webp" },
+        { id: "Discord Boost", image: "assets/img/boost.png" },
     ],
 
     PROJECTS: [
