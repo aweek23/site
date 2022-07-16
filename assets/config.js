@@ -9,13 +9,13 @@ const config = {
     ],
 
     PROJECTS: [
-        { id: "Astra Giveaways", image: "assets/img/astragiveaways.png", link: "", name: "AstraGiveaways, giveaways en totu genres" },
-        { id: "Social Boost", image: "assets/img/socialboost.png", link: "", name: "SocialBoost, boostez vos réseaux" },
-        { id: "ShopDeals", image: "assets/img/shopdeals.png", link: "", name: "ShopDeals, vente de produits moins cher" },
-        { id: "Legion", image: "assets/img/legion.png", link: "", name: "Legion, formations, cours et astuces privés" },
-        { id: "Casino Palace", image: "assets/img/casino.png", link: "", name: "Casino Palace, le premier Casino de Discord" },
-        { id: "Aweek.bot", image: "assets/img/aweek.png", link: "", name: "Aweek.bot, le bot le plus complet de tout Discord" },
-        { id: "S3MC", image: "assets/img/s3mc.png", link: "", name: "S3MC, petite survie chill" },
+        { id: "Astra Giveaways", image: "assets/img/astragiveaways.png", link: "https://discord.gg/WYcMEKwVAr", name: "AstraGiveaways, giveaways en totu genres" },
+        { id: "Social Boost", image: "assets/img/socialboost.png", link: "https://discord.gg/VDnPdsH2m3", name: "SocialBoost, boostez vos réseaux" },
+        { id: "ShopDeals", image: "assets/img/shopdeals.png", link: "https://discord.gg/XbCUHASf89", name: "ShopDeals, vente de produits moins cher" },
+        { id: "Legion", image: "assets/img/legion.png", link: "https://discord.gg/A8sNE6vbG9", name: "Legion, formations, cours et astuces privés" },
+        { id: "Casino Palace", image: "assets/img/casino.png", link: "https://discord.gg/fnJ8WaEKdn", name: "Casino Palace, le premier Casino de Discord" },
+        { id: "Aweek.bot", image: "assets/img/aweek.png", link: "https://discord.gg/KutVNfVVtM", name: "Aweek.bot, le bot le plus complet de tout Discord" },
+        { id: "S3MC", image: "assets/img/s3mc.png", link: "https://discord.gg/KpgYbP2GUE", name: "S3MC, petite survie chill" },
     ],
 
     SOCIALS: [
