@@ -9,7 +9,7 @@ const config = {
     ],
 
     PROJECTS: [
-        { id: "Astra Giveaways", image: "", link: "", name: "" },
+        { id: "Astra Giveaways", image: "assets/img/astragiveaways.png", link: "", name: "" },
         { id: "Social Boost", image: "", link: "", name: "" },
         { id: "ShopDeals", image: "", link: "", name: "" },
         { id: "Legion", image: "", link: "", name: "" },
