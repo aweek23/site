@@ -1,6 +1,6 @@
 const config = {
     USERNAME: "αωєєк#0001",
-    PICTURE: "assets/img/9E4D5067-4D8D-49F4-8C7A-C8F0FF860689.png",
+    PICTURE: "assets/img/aweek.png",
 
     DESCRIPTION: "Salut ! Je suis Ayzirix, mieux connu sous le pseudonyme de Aweek. J'ai 16ans et je suis belge, je dis alors nonante et non quatre-vingt dix. Je suis développeur débutant, hébergeur et technicien, infographiste, community manager et fort présent dans le monde des cryptomonnaies. N'hésitez pas à passer sur ma page Github afin d'avoir plus d'information sur ma personnes, mes compétences et/ou mes projets.",
 
